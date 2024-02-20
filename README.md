@@ -1,3 +1,7 @@
+Requirements
+node 16.14.0
+angular@16
+
 # D3Prototype
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
